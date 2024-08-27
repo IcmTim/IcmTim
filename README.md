@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Tim. I'm from Russia. I'm student of LAB University of Applied Sciences. I want to get higher education and become a professional. I'm always ready to work in a group and communicate in order to create projects and ideas.
+I'm Tim. I'm from Russia. I'm student of LAB University of Applied Sciences. I want to get higher education and become a professional. I'm always ready to work in a group and communicate in order to create projects and ideas. My profile: https://github.com/IcmTim/IcmTim
 <!--
 **IcmTim/IcmTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
